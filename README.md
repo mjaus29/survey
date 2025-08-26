@@ -2,6 +2,10 @@
 
 A full-stack web application built with Next.js, Prisma, and PostgreSQL for creating and managing surveys with user authentication.
 
+**Deployed Link:** [https://survey-austria.vercel.app/](https://survey-austria.vercel.app/)
+
+**Developer:** Mark Joshua Austria
+
 ![Survey App](public/loader.svg)
 
 ## 📋 Features
@@ -179,3 +183,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components built with Shadcn UI and Tailwind CSS
 - [Neon](https://neon.tech/) - Serverless Postgres database with a generous free tier
+- [Vercel](https://vercel.com/) - Platform for deploying and hosting the application
