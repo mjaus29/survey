@@ -6,8 +6,6 @@ A full-stack web application built with Next.js, Prisma, and PostgreSQL for crea
 
 **Developer:** Mark Joshua Austria
 
-![Survey App](public/loader.svg)
-
 ## 📋 Features
 
 - **User Authentication**
